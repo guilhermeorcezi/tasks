@@ -29,7 +29,7 @@
 
 ## :bookmark: About
 
-The <strong>Tasks</strong> it is a project to list, create and edit tasks, marking if it is in progress or if it has already been completed.
+The <strong>Tasks</strong> is a project to list, create and edit tasks, marking if it is in progress or if it has already been completed.
 
 ## :rocket: Technologies
 
